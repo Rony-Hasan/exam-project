@@ -1,0 +1,281 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Container {
+    width: 1127px;
+    margin: 0px auto;
+}
+
+.logo img {
+    width: 215px;
+    float: left;
+    margin-right: 162px;
+}
+
+ul li {
+    list-style: none;
+    font-size: 18px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 14px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #707070;
+}
+
+header {
+    padding: 10px 0px;
+    background: white;
+    width: 100%;
+    position: fixed;
+    margin-top: -15px;
+}
+
+
+
+
+#banner{background-image: url(../IMAGE/Background\ Banner.jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+}
+
+.bannercontent {
+    padding: 306px 0px;
+    margin-top: 15px;
+    text-align: center;
+    line-height: 35px;
+}
+
+.bannercontent h2 {
+    color: white;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.bannercontent p {
+    font-size: 33px;
+    font-family: sans-serif;
+    color: white;
+    line-height: 100px;
+    font-weight: 500;
+}
+
+.bannercontent button {
+    background: #99c50a;
+    padding: 20px 35px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.bannercontent button:hover {
+    background: green;
+    cursor: pointer;
+    color:white;
+}
+
+.capabilitiesWork img {
+    width: 75px;
+}
+
+.capabilitiesWork {
+    width: 995px;
+    margin: auto;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 85px 0px;
+    color: #515151;
+}
+.capabilitiesWork h2 {
+    text-transform: uppercase;
+    color: #515151;
+}
+
+
+
+.DouleContainer {
+    background: #e2f8ff;
+    width: 50%;
+    float: left;
+}
+
+.DouleContainer img {
+    float: left;
+    margin-right: 30px;
+    padding: 30px 0px;
+}
+
+
+.Content img {
+    float: left;
+    margin-right: 30px;
+    padding: 30px 0px;
+}
+.Content {
+    padding: 90px 0px;
+    width: 49%;
+    font-size: 18px;
+    margin: auto;
+    font-family: sans-serif;
+    line-height: 35px;
+    letter-spacing: 1px;
+    color: #515151;
+}
+
+.Content2 {
+    padding: 90px 0px;
+    width: 49%;
+    font-size: 18px;
+    margin: auto;
+    font-family: sans-serif;
+    line-height: 35px;
+    letter-spacing: 1px;
+    color: #515151;
+}
+.Content2 img {
+    float: left;
+    margin-right: 30px;
+    padding: 30px 0px;
+}
+.Content button {
+    background: #08b4fb;
+    color: white;
+    border: none;
+    padding: 17px 35px;
+    font-size: 16px;
+    border-radius: 7px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.Content2 button {
+    background: #aed137;
+    color: white;
+    border: none;
+    padding: 17px 35px;
+    font-size: 16px;
+    border-radius: 7px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+
+.Content2 button:hover{
+    background:green;
+    color: white;
+    cursor: pointer;
+}
+
+.Content button:hover {
+    background: green;
+    color: white;
+    cursor: pointer;
+}
+
+
+button {
+    background: #08b4fb;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 7px;
+    font-size: 17px;
+    color: white;
+    margin-top: 15px;
+}
+
+.DouleContainer2 {
+    background: #f5f9eb;
+    width: 50%;
+    float: left;
+}
+
+
+.ProjectContent {
+    width: 578px;
+    line-height: 35px;
+    font-family: sans-serif;
+    font-size: 19px;
+    float: left;
+    padding: 40px 0px;
+    margin-right: 365px;
+    color: #515151;
+}
+
+.Btn button {
+    margin-top: 83px;
+}
+
+
+.packageContent {
+    width: 28.3%;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    float: left;
+    margin-left: 40px;
+}
+
+.contentpackage {
+    width: 100%;
+}
+
+.contentpackage h4 {
+    width: 50%;
+    background: black;
+}
+
+h4 {
+    width: 50%;
+    float: left;
+    font-family: sans-serif;
+    line-height: 100px;
+    font-size: 16px;
+    margin-bottom: -25px;
+    font-weight: bold;
+    color: #515151;
+}
+
+.bordercolor {
+    border: 1px solid;
+    height: 270px;
+    margin-top: -9px;
+    width: 296px;
+    margin-left: 10px;
+}
+hr {
+    border: 1px solid black;
+    width: 270px;
+    margin: auto;
+}
+
+i.fas.fa-arrow-circle-right {
+    color: #add136;
+}
+
+.PartnerLogo img {
+    padding: 115px 50px;
+}
+
+.FooterContant h3 {
+    text-align: center;
+    padding: 35px 0px;
+}
+footer hr {
+    width: 100%;
+    border: 1px solid #5151519e;
+}
+
+.Btn button:hover {
+    background: green;
+}
+h3 {
+    color: #515151;
+}
